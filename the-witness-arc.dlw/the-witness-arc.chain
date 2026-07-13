@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1258
+slug  : the-witness-arc
+seal  : 53fa79ebb34f692b157574b473a1227386af6c02be18966e6909287dc8abf873
+prev  : 5e31e430f0857f6a0f021970f674e46f7aaf237affd7a52dc6a7327b5707c88d
+link  : 019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce
+head  : 019aab662998d39094e0fc37d04751512a10f638cf91f6c7849195cc2b15d6ce
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
